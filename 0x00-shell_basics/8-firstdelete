@@ -1,5 +1,2 @@
 #!/bin/bash
-cd
-cd tmp
-cd my_first_directory
-rm betty
+cd | cd tmp | cd my_first_directory | rm betty
