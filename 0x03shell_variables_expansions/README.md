@@ -1,1 +1,1 @@
-Projects for variables expansions
+Directory for variables expansion
